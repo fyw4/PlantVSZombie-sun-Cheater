@@ -17,6 +17,6 @@
 
 具体查找基址方法请参考：https://blog.csdn.net/wangqingchuan92/article/details/83036960
 
-**运行结果：**
+**运行截图：**
 
 ![image](https://img-blog.csdn.net/2018101417082530?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dhbmdxaW5nY2h1YW45Mg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70)
