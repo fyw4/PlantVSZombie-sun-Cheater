@@ -27,4 +27,5 @@
 2018.8.19 初版完成 V1.0
 
 **标星次数：**
+
 [![Stargazers over time](https://starchart.cc/fyw4/PlantVSZombie-sun-Cheater.svg)](https://starchart.cc/fyw4/PlantVSZombie-sun-Cheater)
